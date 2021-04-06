@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pigiopanico
+- 👀 I’m interested in Python, Java and Web Development
+- 🌱 I’m currently learning Git and Python
+- 💞️ I’m looking to collaborate on a web app project
